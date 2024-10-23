@@ -8,7 +8,7 @@ dist/
 build/
 
 # Прочие файлы
-.docs
+.info
 
 # Логи
 logs/
